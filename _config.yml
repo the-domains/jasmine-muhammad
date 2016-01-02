@@ -1,0 +1,28 @@
+name: Jasmine Muhammad
+favicon: null
+layout_spectrum: 0.011479264590889215
+typography_spectrum: 0.9296279512345791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06758728600107133
+  lightness: 0.1700520608574152
+  saturation: 0.2318660153541714
+  rhythmicContrast: 0.7758535256143659
+purpose: []
